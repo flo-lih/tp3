@@ -3,4 +3,4 @@ project (tp3)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(tp3 main.cpp subfunc.cpp)
+add_executable(tp3 main.cpp)
